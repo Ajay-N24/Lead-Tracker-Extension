@@ -1,9 +1,7 @@
 **Lead Tracker Extension**
-
 Welcome to the Lead Tracker Extension! This simple browser extension is designed to help you save and manage leads while browsing websites. It's built using HTML, CSS, and JavaScript, making it easy to use and extend.
 
 **Features**
-
 Save User Input:
   Capture and store user input as a string.
   Easily enter and save relevant lead information.
