@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+button
+{
+    margin-top: 4px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+#input-btn{
+    background: #5f9341;
+    color: white;
+}
+#tab-btn{
+    background: #5f9341;
+    color: white;
+}
+#delete-btn{
+    background: white;
+    color: #5f9341;
+    border: 1px solid #5f9341;
+}
+#input-el
+{
+    font-size: 1rem;
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+}
+#input-el:focus
+{
+    background-color: #cfd9ea;
+}
+ul{
+    margin-top: 35px;
+    list-style: none;
+}
+li{
+    padding-block: 5px;
+}
+li a{
+    color:#5f9341;
+}
