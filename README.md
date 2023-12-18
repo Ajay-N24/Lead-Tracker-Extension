@@ -3,7 +3,7 @@ Welcome to the Lead Tracker Extension! This simple browser extension is designed
 
 **Features**
 Save User Input:
-  Capture and store user input as a string.
+	Capture and store user input as a string.
   Easily enter and save relevant lead information.
 
 Save Current Website URL:
